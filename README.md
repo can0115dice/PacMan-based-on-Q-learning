@@ -1,7 +1,7 @@
 # [PYTHON] Q-learning for playing Pac-Man
 
 ## Introduction
-This project implements a Q-learning agent to play a simplified version of the Pac-Man game. The agent learns to navigate the game environment, collect dots, and avoid ghosts using the Q-learning algorithm. This project serves as an educational example for reinforcement learning concepts.
+This project implements a Q-learning agent to play a simplified version of the Pac-Man game. The agent learns to navigate the game environment, collect dots, and avoid ghosts using the Q-learning algorithm.
 
 ## Project Structure
 - `game_env.py`: Defines the Pac-Man game environment, including game logic, state representation, and reward mechanisms.
