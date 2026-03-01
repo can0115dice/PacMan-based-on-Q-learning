@@ -15,7 +15,6 @@ This project implements a Q-learning agent to play a simplified version of the P
 - Python 3.x
 - NumPy
 - Pygame
-- Pickle (for model serialization)
 
 ## How to Use
 ### Training
